@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 back_ground("back/md4.jpg")
 with st.sidebar:
-    back_ground("back/md2.jpg")
+    back_ground("back/md4.jpg")
 st.markdown(
 """
 <style>
@@ -106,7 +106,7 @@ footer {
 	
 	}
 footer:after {
-	content:'Made With Love For Python'; 
+	content:'Made With Love For AI'; 
 	visibility: visible;
 	display: block;
 	position: relative;
